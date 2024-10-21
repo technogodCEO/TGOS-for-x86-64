@@ -1,6 +1,6 @@
 # TGOS
 An unix-based operating system designed for ARM64
 
-# Lisenseing information
+# license information
 
 © 2024 Roshan Kareer, all rights reserved 

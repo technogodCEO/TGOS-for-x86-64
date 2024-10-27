@@ -1,5 +1,5 @@
 # TGOS
-An unix-based operating system designed for ARM64
+An UNIX-based operating system designed for x86-64
 
 # license information
 

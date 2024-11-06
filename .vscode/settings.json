@@ -1,0 +1,19 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+    "makefile.configureOnOpen": false,
+    "files.associations": {
+        "windows.h": "c",
+        "windef.h": "c",
+        "minwindef.h": "c"
+    },
+    "vscode_custom_css.imports": [ "file:///C:/Users/atvku/.vscode/extensions/robbowen.synthwave-vscode-0.1.16/synthwave84.css", ],
+    "editor.glyphMargin": false, 
+    "editor.folding": false, 
+    "editor.lineNumbers": "on",
+    "editor.showFoldingControls": "mouseover",
+    "editor.lineDecorationsWidth": 0, // undocumented 
+    "editor.lineNumbersMinChars": 4, // undocumented 
+    "editor.cursorBlinking": "expand", 
+    "editor.cursorSmoothCaretAnimation": "on",
+}
